@@ -23,10 +23,10 @@
 <br />
 <div align="center">
 
-<h3 align="center">Scheme Interpreter</h3>
+<h3 align="center">EEG Passthoughts</h3>
 
   <p align="center">
-    A scheme interpreter in Python.
+    What if you could simply think your password?
     <br />
     <a href="https://github.com/simondoebele/scheme-interpreter"><strong>Explore the docs »</strong></a>
     <br />
