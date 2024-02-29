@@ -28,12 +28,12 @@
   <p align="center">
     What if you could simply think your password?
     <br />
-    <a href="https://github.com/simondoebele/scheme-interpreter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/simondoebele/eeg-passthoughts"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/simondoebele/scheme-interpreterissues">Report Bug</a>
+    <a href="https://github.com/simondoebele/eeg-passthoughts/issues">Report Bug</a>
     ·
-    <a href="https://github.com/simondoebele/scheme-interpreterissues">Request Feature</a>
+    <a href="https://github.com/simondoebele/eeg-passthoughts/issues">Request Feature</a>
   </p>
 </div>
 
