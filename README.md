@@ -37,6 +37,7 @@
   </p>
 </div>
 
+![EEG](./images/cover.png)
 
 
 <!-- TABLE OF CONTENTS -->
